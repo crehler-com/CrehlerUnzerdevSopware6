@@ -1,7 +1,7 @@
 {
     "name": "crehler/unzerdev-shopware6",
     "description": "Unzer payment integration for Shopware 6 by Crehler",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "type": "shopware-platform-plugin",
     "license": "Apache-2.0",
     "minimum-stability": "dev",
