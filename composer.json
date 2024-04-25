@@ -1,7 +1,7 @@
 {
-    "name": "unzerdev/shopware6",
-    "description": "Unzer payment integration for Shopware 6",
-    "version": "5.7.0",
+    "name": "crehler/unzerdev-shopware6",
+    "description": "Unzer payment integration for Shopware 6 by Crehler",
+    "version": "1.0.0",
     "type": "shopware-platform-plugin",
     "license": "Apache-2.0",
     "minimum-stability": "dev",
@@ -49,7 +49,8 @@
         }
     },
     "replace": {
-        "heidelpay/shopware-6": "*"
+        "heidelpay/shopware-6": "*",
+        "unzerdev/shopware6": "5.7.0"
     },
     "autoload": {
         "psr-4": {
