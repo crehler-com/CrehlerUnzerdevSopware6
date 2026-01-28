@@ -42,3 +42,8 @@ After the actual plugin installation it is necessary to add the new payment meth
 Currently, the only sales channel that is supported is the Storefront.
 
 Further information and configuration you can find within the <a href="https://docs.unzer.com/plugins/shopware-6/" target="_blank">manual</a>
+
+## 📅 Kalendarium
+Utworzono: 09.07.2019
+Ostatnia modyfikacja: 25.04.2024
+
